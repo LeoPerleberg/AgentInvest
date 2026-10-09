@@ -1,0 +1,18 @@
+{
+  "name": "agentinvest-marketplace",
+  "metadata": {
+    "description": "Catálogo local do plugin AgentInvest.",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "AgentInvest"
+  },
+  "plugins": [
+    {
+      "name": "agentinvest",
+      "source": ".",
+      "description": "Agente de estudo e análise educacional de investimentos para investidores brasileiros.",
+      "version": "1.0.0"
+    }
+  ]
+}
